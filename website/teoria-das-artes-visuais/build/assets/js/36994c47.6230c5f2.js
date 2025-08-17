@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteoria_das_artes_visuais=self.webpackChunkteoria_das_artes_visuais||[]).push([[9858],{5516:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

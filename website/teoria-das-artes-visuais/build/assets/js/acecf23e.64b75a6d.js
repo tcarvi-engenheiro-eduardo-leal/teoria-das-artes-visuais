@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteoria_das_artes_visuais=self.webpackChunkteoria_das_artes_visuais||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog"}')}}]);

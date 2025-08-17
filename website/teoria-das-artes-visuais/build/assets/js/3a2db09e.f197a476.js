@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteoria_das_artes_visuais=self.webpackChunkteoria_das_artes_visuais||[]).push([[8121],{8070:s=>{s.exports=JSON.parse('{"tags":[{"label":"Hello","permalink":"/blog/tags/hello","description":"Hello tag description","count":1}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteoria_das_artes_visuais=self.webpackChunkteoria_das_artes_visuais||[]).push([[7472],{5513:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/blog/first-blog-post","unlisted":false}]}')}}]);

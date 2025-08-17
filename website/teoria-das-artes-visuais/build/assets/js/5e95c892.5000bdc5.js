@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteoria_das_artes_visuais=self.webpackChunkteoria_das_artes_visuais||[]).push([[9647],{7121:(s,e,a)=>{a.r(e),a.d(e,{default:()=>n});a(6540);var r=a(4164),t=a(1213),u=a(7559),i=a(2831),c=a(781),d=a(4848);function n(s){return(0,d.jsx)(t.e3,{className:(0,r.A)(u.G.wrapper.docsPages),children:(0,d.jsx)(c.A,{children:(0,i.v)(s.route.routes)})})}}}]);

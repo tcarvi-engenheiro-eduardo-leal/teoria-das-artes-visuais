@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://arvi-teoria-das-artes-visuais.web.app/blog</id>
+    <title>Tutoriais de Teoria das Artes Visuais, com Aplicativos Open Source Blog</title>
+    <updated>2024-01-31T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://arvi-teoria-das-artes-visuais.web.app/blog"/>
+    <subtitle>Tutoriais de Teoria das Artes Visuais, com Aplicativos Open Source Blog</subtitle>
+    <icon>https://arvi-teoria-das-artes-visuais.web.app/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://arvi-teoria-das-artes-visuais.web.app/blog/first-blog-post</id>
+        <link href="https://arvi-teoria-das-artes-visuais.web.app/blog/first-blog-post"/>
+        <updated>2024-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blog a escrever ...]]></summary>
+        <content type="html"><![CDATA[<p>Blog a escrever ...</p>]]></content>
+        <author>
+            <name>TCARVI</name>
+            <uri>https://github.com/tcarvi</uri>
+        </author>
+        <category label="Hello" term="Hello"/>
+    </entry>
+</feed>
