@@ -1,0 +1,1 @@
+# Objeto Percebido Esteticamente
