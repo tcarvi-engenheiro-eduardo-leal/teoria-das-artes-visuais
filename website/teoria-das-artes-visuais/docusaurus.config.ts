@@ -5,7 +5,7 @@ import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
-  title: 'Tutoriais de Teoria das Artes Visuais, com Aplicativos Open Source',
+  title: 'Teoria das Artes Visuais, com Aplicativos Open Source',
   tagline: 'teoria-das-artes-visuais',
   favicon: 'img/favicon.ico',
   url: 'https://arvi-teoria-das-artes-visuais.web.app/',
@@ -81,7 +81,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/conceitos-gerais/teoria-das-artes-visuais',
+              to: '/docs/category/conceitos-gerais/',
             },
           ],
         },
